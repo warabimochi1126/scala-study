@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\warabimochi\Desktop\workspace\scala-study\target\scala-2.12\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FactorialTailRec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FactorialTailRec$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FactorialTailRec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FactorialTailRec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FactorialTailRec$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FactorialTailRec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Factorial$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FactorialTailRec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FactorialTailRec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Factorial.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Factorial$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FactorialTailRec$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\warabimochi\Desktop\workspace\scala-study\target\scala-2.12\classes.bak[0m
