@@ -1,7 +1,6 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\2220415\Desktop\scala-study\Factorization.scala:12:39: not found: value divisior[0m
-[0m[[0m[31merror[0m] [0m[0m      factorizationRec(num / divisor, divisior, nextAcc)[0m
-[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\2220415\Desktop\scala-study\Factorization.scala:14:29: not found: value divisior[0m
-[0m[[0m[31merror[0m] [0m[0m      factorizationRec(num, divisior + 1, acc)[0m
-[0m[[0m[31merror[0m] [0m[0m                            ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\warabimochi\Desktop\workspace\scala-study\PartialSumDFS.scala:13:5: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: (Boolean, Seq[Int])[0m
+[0m[[0m[31merror[0m] [0m[0m    if (isMatchNotAdd) return (isMatchNotAdd, resultNotAdd)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
